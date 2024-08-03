@@ -1,1 +1,1 @@
-# Bee-Advanced-Network-Scanner
+# BuzzNetScan: The Bee Advanced Network Scanner
