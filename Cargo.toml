@@ -1,0 +1,7 @@
+[package]    
+name = "buzznetscan"    
+version = "0.1.0"    
+authors = ["Abeis Nelson"]    
+edition = "2024"    
+    
+[dependencies]    
